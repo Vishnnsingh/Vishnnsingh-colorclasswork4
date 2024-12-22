@@ -1,4 +1,4 @@
-import style from './MyComponent.module.css';
+import style from '../components/Mycomponent.module.css';
 import Card from '../cards/Card';
 import React from 'react'
 import Header from '../header/Header';
